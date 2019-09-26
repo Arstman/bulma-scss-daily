@@ -1,3 +1,5 @@
 # bulma-scss-daily
-bulma css in scss sytax, this repo update tracks the origin bulma repo daily and keep update
-## updated on 2019-09-26 10:46:59
+
+The [Bulma](https://bulma.io/) project in scss sytax, this repo tracks the origin bulma repo and keep update daily
+
+## updated on 2019-09-27 06:00:05
