@@ -2,4 +2,4 @@
 
 The [Bulma](https://bulma.io/) project in scss sytax, this repo tracks the origin bulma repo and keep update daily
 
-## updated on 2019-10-29 06:00:07
+## updated on 2019-10-30 06:00:05
